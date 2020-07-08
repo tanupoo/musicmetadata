@@ -1,0 +1,745 @@
+{
+    "artist-list": [
+        {
+            "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+            "type": "Person",
+            "ext:score": "100",
+            "name": "Ozzy Osbourne",
+            "sort-name": "Osbourne, Ozzy",
+            "gender": "male",
+            "area": {
+                "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+                "type": "City",
+                "name": "Los Angeles",
+                "sort-name": "Los Angeles",
+                "life-span": {
+                    "ended": "false"
+                }
+            },
+            "begin-area": {
+                "id": "329e49d2-180c-4ac3-a06b-40737e50d4d6",
+                "type": "City",
+                "name": "Aston",
+                "sort-name": "Aston",
+                "life-span": {
+                    "ended": "false"
+                }
+            },
+            "ipi-list": [
+                "00059623948",
+                "00127204015"
+            ],
+            "isni-list": [
+                "0000000115764634",
+                "0000000368599630"
+            ],
+            "life-span": {
+                "begin": "1948-12-03",
+                "ended": "false"
+            },
+            "alias-list": [
+                {
+                    "locale": "ja",
+                    "sort-name": "\u30aa\u30b8\u30fc\u30fb\u30aa\u30ba\u30dc\u30fc\u30f3",
+                    "type": "Artist name",
+                    "primary": "primary",
+                    "alias": "\u30aa\u30b8\u30fc\u30fb\u30aa\u30ba\u30dc\u30fc\u30f3"
+                },
+                {
+                    "locale": "en",
+                    "sort-name": "Osbourne, John Michael",
+                    "type": "Legal name",
+                    "begin-date": "1948-12-03",
+                    "alias": "John Michael Osbourne"
+                },
+                {
+                    "locale": "en",
+                    "sort-name": "Osbourne, Ozzy",
+                    "type": "Artist name",
+                    "primary": "primary",
+                    "alias": "Ozzy Osbourne"
+                },
+                {
+                    "sort-name": "Osbourne, Ozzy",
+                    "alias": "Osbourne, Ozzy"
+                },
+                {
+                    "sort-name": "Ozzy Ozbourne",
+                    "alias": "Ozzy Ozbourne"
+                },
+                {
+                    "sort-name": "Ozzy Ozborne",
+                    "alias": "Ozzy Ozborne"
+                },
+                {
+                    "sort-name": "Ozzy Osborne",
+                    "alias": "Ozzy Osborne"
+                },
+                {
+                    "sort-name": "John Osbourne",
+                    "alias": "John Osbourne"
+                },
+                {
+                    "sort-name": "Ozzy",
+                    "alias": "Ozzy"
+                }
+            ],
+            "tag-list": [
+                {
+                    "count": "0",
+                    "name": "rock"
+                },
+                {
+                    "count": "8",
+                    "name": "heavy metal"
+                },
+                {
+                    "count": "0",
+                    "name": "metal"
+                },
+                {
+                    "count": "3",
+                    "name": "british"
+                },
+                {
+                    "count": "0",
+                    "name": "uk"
+                },
+                {
+                    "count": "5",
+                    "name": "hard rock"
+                },
+                {
+                    "count": "2",
+                    "name": "pop rock"
+                },
+                {
+                    "count": "2",
+                    "name": "symphonic rock"
+                },
+                {
+                    "count": "0",
+                    "name": "piano rock"
+                },
+                {
+                    "count": "2",
+                    "name": "glam metal"
+                },
+                {
+                    "count": "0",
+                    "name": "english"
+                },
+                {
+                    "count": "0",
+                    "name": "classic pop and rock"
+                },
+                {
+                    "count": "0",
+                    "name": "ozzy osbourne"
+                },
+                {
+                    "count": "0",
+                    "name": "multiple ipi"
+                }
+            ]
+        },
+        {
+            "id": "f34e6b71-88ff-4a39-a54e-944c1e330a3c",
+            "type": "Group",
+            "ext:score": "52",
+            "name": "Ozzy Bloody Bastard",
+            "sort-name": "OBB",
+            "area": {
+                "id": "9ddf829c-48ee-4457-a80d-f7370f24f2ec",
+                "type": "City",
+                "name": "Madrid",
+                "sort-name": "Madrid",
+                "life-span": {
+                    "ended": "false"
+                }
+            },
+            "begin-area": {
+                "id": "c39d5207-c65a-412e-9785-090cd59c734d",
+                "type": "Municipality",
+                "name": "Mejorada del Campo",
+                "sort-name": "Mejorada del Campo",
+                "life-span": {
+                    "ended": "false"
+                }
+            },
+            "disambiguation": "Ozzy Osbourne tribute band",
+            "life-span": {
+                "begin": "2015-12-28",
+                "ended": "false"
+            },
+            "tag-list": [
+                {
+                    "count": "2",
+                    "name": "hard rock"
+                },
+                {
+                    "count": "2",
+                    "name": "metal"
+                },
+                {
+                    "count": "2",
+                    "name": "heavy metal"
+                },
+                {
+                    "count": "2",
+                    "name": "tribute"
+                },
+                {
+                    "count": "1",
+                    "name": "zakk wylde"
+                },
+                {
+                    "count": "1",
+                    "name": "ozzy osbourne"
+                },
+                {
+                    "count": "1",
+                    "name": "randy rhoads"
+                },
+                {
+                    "count": "1",
+                    "name": "jake e. lee"
+                }
+            ]
+        },
+        {
+            "id": "14b52ad2-f9ae-4181-bc4d-59803f6d2206",
+            "ext:score": "37",
+            "name": "Sodomozzy Osbourne",
+            "sort-name": "Osbourne, Sodomozzy",
+            "life-span": {
+                "ended": "false"
+            }
+        },
+        {
+            "id": "ab92465a-fb88-4196-87a0-81f1e2aa6483",
+            "type": "Person",
+            "ext:score": "36",
+            "name": "John Sinclair",
+            "sort-name": "Sinclair, John",
+            "gender": "male",
+            "country": "GB",
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "type": "Country",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "life-span": {
+                    "ended": "false"
+                }
+            },
+            "disambiguation": "keyboardist, Uriah Heep/Ozzy Osbourne's band",
+            "life-span": {
+                "begin": "1952-04-12",
+                "ended": "false"
+            },
+            "alias-list": [
+                {
+                    "sort-name": "John Sinclair - Edition 2000",
+                    "alias": "John Sinclair - Edition 2000"
+                }
+            ],
+            "tag-list": [
+                {
+                    "count": "1",
+                    "name": "heavy metal"
+                },
+                {
+                    "count": "1",
+                    "name": "hard rock"
+                },
+                {
+                    "count": "1",
+                    "name": "pop"
+                },
+                {
+                    "count": "1",
+                    "name": "rock"
+                },
+                {
+                    "count": "1",
+                    "name": "progressive rock"
+                }
+            ]
+        },
+        {
+            "id": "3c986e19-b10b-4f9b-87fb-27c4d36c8803",
+            "type": "Group",
+            "ext:score": "36",
+            "name": "The Ozzbournes",
+            "sort-name": "Ozzbournes, The",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": "false"
+                }
+            },
+            "disambiguation": "Black Sabbath/Ozzy Osbourne tribute band",
+            "life-span": {
+                "begin": "2016",
+                "ended": "false"
+            }
+        },
+        {
+            "id": "5a537725-c9d9-4c09-8029-5bbcb9297b52",
+            "type": "Group",
+            "ext:score": "35",
+            "name": "Ozzy",
+            "sort-name": "Ozzy",
+            "area": {
+                "id": "309f34c5-5df2-4bc7-9ad4-2ba4a78abb67",
+                "type": "City",
+                "name": "Wroc\u0142aw",
+                "sort-name": "Wroc\u0142aw",
+                "life-span": {
+                    "ended": "false"
+                }
+            },
+            "disambiguation": "Polish band",
+            "life-span": {
+                "begin": "1982",
+                "ended": "false"
+            }
+        },
+        {
+            "id": "a2ea46d8-985e-4a86-aaec-d61cfde0f592",
+            "type": "Person",
+            "ext:score": "35",
+            "name": "Ozzy",
+            "sort-name": "Ozzy",
+            "country": "AU",
+            "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "type": "Country",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "life-span": {
+                    "ended": "false"
+                }
+            },
+            "disambiguation": "Australian trance artist",
+            "life-span": {
+                "ended": "false"
+            }
+        },
+        {
+            "id": "550223d0-77c7-4530-8a88-0c908c379064",
+            "ext:score": "35",
+            "name": "Ozzy",
+            "sort-name": "Ozzy",
+            "disambiguation": "Rapper from Malm\u00f6, Sweden",
+            "life-span": {
+                "ended": "false"
+            }
+        },
+        {
+            "id": "8cbf50b5-5ce8-462f-9d60-ca2272503093",
+            "type": "Person",
+            "ext:score": "35",
+            "name": "Ozzy",
+            "sort-name": "Ozzy",
+            "gender": "male",
+            "disambiguation": "The Sowers Group",
+            "life-span": {
+                "ended": "false"
+            }
+        },
+        {
+            "id": "7840c62b-2a64-43a6-bdc8-41f8d693a214",
+            "type": "Person",
+            "ext:score": "35",
+            "name": "Ozzy",
+            "sort-name": "Ozzy",
+            "gender": "male",
+            "country": "TR",
+            "area": {
+                "id": "d3be28b4-41f7-3752-8a05-ed45e1d1e492",
+                "type": "Country",
+                "name": "Turkey",
+                "sort-name": "Turkey",
+                "life-span": {
+                    "ended": "false"
+                }
+            },
+            "disambiguation": "Turkish rapper Orhan Erokyar",
+            "life-span": {
+                "ended": "false"
+            }
+        },
+        {
+            "id": "3b9089c2-9bf8-4985-ac22-c4c65a362859",
+            "type": "Person",
+            "ext:score": "35",
+            "name": "Ozzy",
+            "sort-name": "Ozzy",
+            "gender": "male",
+            "country": "GB",
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "type": "Country",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "life-span": {
+                    "ended": "false"
+                }
+            },
+            "disambiguation": "of Acme Sewage Co.",
+            "life-span": {
+                "ended": "false"
+            }
+        },
+        {
+            "id": "74dca2c7-d7dc-4b13-bd17-502a35db042a",
+            "type": "Person",
+            "ext:score": "32",
+            "name": "Johnny Osbourne",
+            "sort-name": "Osbourne, Johnny",
+            "gender": "male",
+            "country": "JM",
+            "area": {
+                "id": "2dd47a64-91d5-3b13-bc94-80043ed063d7",
+                "type": "Country",
+                "name": "Jamaica",
+                "sort-name": "Jamaica",
+                "life-span": {
+                    "ended": "false"
+                }
+            },
+            "begin-area": {
+                "id": "23e0d135-9fe7-48cb-b2c4-93addd3d1e37",
+                "type": "Subdivision",
+                "name": "Kingston",
+                "sort-name": "Kingston",
+                "life-span": {
+                    "ended": "false"
+                }
+            },
+            "disambiguation": "Jamaican reggae singer",
+            "ipi-list": [
+                "00036520994"
+            ],
+            "isni-list": [
+                "0000000055159693"
+            ],
+            "life-span": {
+                "begin": "1948",
+                "ended": "false"
+            },
+            "alias-list": [
+                {
+                    "sort-name": "Johnnie Osbourne",
+                    "alias": "Johnnie Osbourne"
+                },
+                {
+                    "sort-name": "Johnny Osbourne and Burro Banton",
+                    "alias": "Johnny Osbourne and Burro Banton"
+                },
+                {
+                    "locale": "en_JM",
+                    "sort-name": "Osbourne, Errol",
+                    "type": "Legal name",
+                    "alias": "Errol Osbourne"
+                },
+                {
+                    "sort-name": "Johnny Osborne",
+                    "alias": "Johnny Osborne"
+                },
+                {
+                    "sort-name": "Johnny Osbourne & Papa Tullo",
+                    "alias": "Johnny Osbourne & Papa Tullo"
+                }
+            ]
+        },
+        {
+            "id": "6f54eacf-7ec1-4917-8995-6c2f67b606e6",
+            "type": "Person",
+            "ext:score": "30",
+            "name": "Kelly Osbourne",
+            "sort-name": "Osbourne, Kelly",
+            "gender": "female",
+            "country": "GB",
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "type": "Country",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "life-span": {
+                    "ended": "false"
+                }
+            },
+            "begin-area": {
+                "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+                "type": "City",
+                "name": "London",
+                "sort-name": "London",
+                "life-span": {
+                    "ended": "false"
+                }
+            },
+            "isni-list": [
+                "0000000114678427"
+            ],
+            "life-span": {
+                "begin": "1984-10-27",
+                "ended": "false"
+            },
+            "alias-list": [
+                {
+                    "sort-name": "Kelly Osborne",
+                    "alias": "Kelly Osborne"
+                },
+                {
+                    "sort-name": "Kelly Osborune",
+                    "alias": "Kelly Osborune"
+                }
+            ],
+            "tag-list": [
+                {
+                    "count": "1",
+                    "name": "english"
+                },
+                {
+                    "count": "1",
+                    "name": "rock and indie"
+                },
+                {
+                    "count": "1",
+                    "name": "uk"
+                },
+                {
+                    "count": "2",
+                    "name": "british"
+                },
+                {
+                    "count": "1",
+                    "name": "pop"
+                },
+                {
+                    "count": "1",
+                    "name": "new wave"
+                }
+            ]
+        },
+        {
+            "id": "795f2ba0-8050-4e45-89cd-0704cf54ac2e",
+            "ext:score": "29",
+            "name": "Ozzy Fudd",
+            "sort-name": "Ozzy Fudd",
+            "life-span": {
+                "ended": "false"
+            }
+        },
+        {
+            "id": "874edaf5-76cc-48bb-92bd-50877e55666e",
+            "ext:score": "29",
+            "name": "Ozzy Xpm",
+            "sort-name": "Ozzy Xpm",
+            "life-span": {
+                "ended": "false"
+            }
+        },
+        {
+            "id": "e5e80773-0910-4f5a-9185-e4b6741bd32f",
+            "ext:score": "29",
+            "name": "Ozzy Ozwald",
+            "sort-name": "Ozwald, Ozzy",
+            "life-span": {
+                "ended": "false"
+            }
+        },
+        {
+            "id": "cafbeade-46f1-4012-983e-e5566445f740",
+            "type": "Person",
+            "ext:score": "29",
+            "name": "General Ozzy",
+            "sort-name": "General Ozzy",
+            "gender": "male",
+            "country": "ZM",
+            "area": {
+                "id": "d662dd74-1fc1-3e36-b427-bbbe29684618",
+                "type": "Country",
+                "name": "Zambia",
+                "sort-name": "Zambia",
+                "life-span": {
+                    "ended": "false"
+                }
+            },
+            "disambiguation": "Zambian Reggae artist",
+            "life-span": {
+                "ended": "false"
+            }
+        },
+        {
+            "id": "25e4d4b2-e2bf-43c7-be35-1aa1e24600d1",
+            "type": "Person",
+            "ext:score": "29",
+            "name": "Ozzy Martinez",
+            "sort-name": "Martinez, Ozzy",
+            "gender": "male",
+            "life-span": {
+                "ended": "false"
+            }
+        },
+        {
+            "id": "bc7e1c80-0a9c-4036-a987-baf487583aa7",
+            "type": "Person",
+            "ext:score": "29",
+            "name": "Ozzy Garvey",
+            "sort-name": "Garvey, Ozzy",
+            "gender": "male",
+            "country": "GB",
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "type": "Country",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "life-span": {
+                    "ended": "false"
+                }
+            },
+            "life-span": {
+                "ended": "false"
+            }
+        },
+        {
+            "id": "1895599f-6d97-4a2b-9337-c7993b89b0b2",
+            "type": "Person",
+            "ext:score": "29",
+            "name": "Ozzy Bashira",
+            "sort-name": "Bashira, Ozzy",
+            "life-span": {
+                "ended": "false"
+            }
+        },
+        {
+            "id": "ba8cd296-287a-4df8-a651-99638bfb1c6d",
+            "type": "Person",
+            "ext:score": "29",
+            "name": "Ozzy Harris",
+            "sort-name": "Harris, Ozzy",
+            "gender": "male",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": "false"
+                }
+            },
+            "life-span": {
+                "ended": "false"
+            }
+        },
+        {
+            "id": "97e8d3bf-3634-4d89-a312-d7aee14bee74",
+            "type": "Person",
+            "ext:score": "29",
+            "name": "Ozzy Rezat",
+            "sort-name": "Rezat, Ozzy",
+            "gender": "male",
+            "country": "GB",
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "type": "Country",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "life-span": {
+                    "ended": "false"
+                }
+            },
+            "disambiguation": "Avid Merrion\u2019s upstairs neighbour",
+            "life-span": {
+                "ended": "false"
+            },
+            "alias-list": [
+                {
+                    "sort-name": "Ozzy",
+                    "type": "Artist name",
+                    "alias": "Ozzy"
+                },
+                {
+                    "sort-name": "Ozzey",
+                    "type": "Search hint",
+                    "alias": "Ozzey"
+                }
+            ]
+        },
+        {
+            "id": "5d8949a4-05bb-479e-9664-90c5f01fefc8",
+            "type": "Person",
+            "ext:score": "29",
+            "name": "Sharon Osbourne",
+            "sort-name": "Osbourne, Sharon",
+            "gender": "female",
+            "country": "GB",
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "type": "Country",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "life-span": {
+                    "ended": "false"
+                }
+            },
+            "begin-area": {
+                "id": "42c78b4f-392b-4dc1-91b7-ce7993aab0a5",
+                "type": "City",
+                "name": "Brixton",
+                "sort-name": "Brixton",
+                "life-span": {
+                    "ended": "false"
+                }
+            },
+            "isni-list": [
+                "0000000118717390"
+            ],
+            "life-span": {
+                "begin": "1952-10-09",
+                "ended": "false"
+            },
+            "alias-list": [
+                {
+                    "sort-name": "Osbourne, Sharon Rachel",
+                    "type": "Legal name",
+                    "alias": "Sharon Rachel Osbourne"
+                },
+                {
+                    "sort-name": "Osborne, Sharon",
+                    "type": "Artist name",
+                    "alias": "Sharon Osborne"
+                }
+            ]
+        },
+        {
+            "id": "f381a48e-8f9e-41bb-9810-a82ed0272468",
+            "ext:score": "28",
+            "name": "Louis Osbourne",
+            "sort-name": "Osbourne, Louis",
+            "life-span": {
+                "ended": "false"
+            }
+        },
+        {
+            "id": "fe63df43-0141-49ce-8d19-235c78f7d377",
+            "ext:score": "28",
+            "name": "Arthur Osbourne",
+            "sort-name": "OsBourne, Arthur",
+            "disambiguation": "60th Rockabilly Artist",
+            "life-span": {
+                "ended": "false"
+            }
+        }
+    ],
+    "artist-count": 104
+}

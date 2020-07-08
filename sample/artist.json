@@ -1,0 +1,31 @@
+{
+    "artist": {
+        "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+        "type": "Person",
+        "name": "Ozzy Osbourne",
+        "sort-name": "Osbourne, Ozzy",
+        "ipi": "00059623948",
+        "ipi-list": [
+            "00059623948",
+            "00127204015"
+        ],
+        "isni-list": [
+            "0000000115764634",
+            "0000000368599630"
+        ],
+        "gender": "Male",
+        "area": {
+            "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+            "name": "Los Angeles",
+            "sort-name": "Los Angeles"
+        },
+        "begin-area": {
+            "id": "329e49d2-180c-4ac3-a06b-40737e50d4d6",
+            "name": "Aston",
+            "sort-name": "Aston"
+        },
+        "life-span": {
+            "begin": "1948-12-03"
+        }
+    }
+}

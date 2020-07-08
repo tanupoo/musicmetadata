@@ -1,0 +1,18 @@
+{
+    "recording": {
+        "id": "362288e6-93fb-4d30-8b11-aac148a82fae",
+        "title": "Straight to Hell",
+        "length": "226000",
+        "artist-credit": [
+            {
+                "artist": {
+                    "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+                    "type": "Person",
+                    "name": "Ozzy Osbourne",
+                    "sort-name": "Osbourne, Ozzy"
+                }
+            }
+        ],
+        "artist-credit-phrase": "Ozzy Osbourne"
+    }
+}

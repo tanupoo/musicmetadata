@@ -1,0 +1,233 @@
+{
+    "disc": {
+        "id": "M2odo.32134Gzprg8cdXWAEbe6Y-",
+        "sectors": "222641",
+        "offset-list": [
+            150,
+            17077,
+            36448,
+            61524,
+            84153,
+            106462,
+            125888,
+            144370,
+            163942,
+            185851,
+            205407
+        ],
+        "offset-count": 11,
+        "release-list": [
+            {
+                "id": "bc78e4b6-3e33-42c7-b177-1f88d22cb975",
+                "title": "Ordinary Man",
+                "status": "Official",
+                "quality": "normal",
+                "disambiguation": "Digipac Deluxe CD",
+                "packaging": "Digipak",
+                "text-representation": {
+                    "language": "eng",
+                    "script": "Latn"
+                },
+                "artist-credit": [
+                    {
+                        "artist": {
+                            "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+                            "type": "Person",
+                            "name": "Ozzy Osbourne",
+                            "sort-name": "Osbourne, Ozzy"
+                        }
+                    }
+                ],
+                "date": "2020-02-21",
+                "country": "XE",
+                "release-event-list": [
+                    {
+                        "date": "2020-02-21",
+                        "area": {
+                            "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                            "name": "Europe",
+                            "sort-name": "Europe",
+                            "iso-3166-1-code-list": [
+                                "XE"
+                            ]
+                        }
+                    }
+                ],
+                "release-event-count": 1,
+                "barcode": "194397184624",
+                "asin": "B083PLKP3W",
+                "cover-art-archive": {
+                    "artwork": "false",
+                    "count": "0",
+                    "front": "false",
+                    "back": "false"
+                },
+                "medium-list": [
+                    {
+                        "position": "1",
+                        "format": "CD",
+                        "disc-list": [
+                            {
+                                "id": "M2odo.32134Gzprg8cdXWAEbe6Y-",
+                                "sectors": "222641",
+                                "offset-list": [
+                                    150,
+                                    17077,
+                                    36448,
+                                    61524,
+                                    84153,
+                                    106462,
+                                    125888,
+                                    144370,
+                                    163942,
+                                    185851,
+                                    205407
+                                ],
+                                "offset-count": 11
+                            }
+                        ],
+                        "disc-count": 1,
+                        "track-list": [
+                            {
+                                "id": "25979dfe-f724-41fa-8b0f-ec30a7215c0e",
+                                "position": "1",
+                                "number": "1",
+                                "length": "226000",
+                                "recording": {
+                                    "id": "362288e6-93fb-4d30-8b11-aac148a82fae",
+                                    "title": "Straight to Hell",
+                                    "length": "226000"
+                                },
+                                "track_or_recording_length": "226000"
+                            },
+                            {
+                                "id": "aab5bb55-40cd-4497-ab79-2acb19ca5a72",
+                                "position": "2",
+                                "number": "2",
+                                "length": "258000",
+                                "recording": {
+                                    "id": "d839df07-09b2-4262-98cc-1257e1ede856",
+                                    "title": "All My Life",
+                                    "length": "258000"
+                                },
+                                "track_or_recording_length": "258000"
+                            },
+                            {
+                                "id": "dd3d1c22-c0f2-4589-b4de-101e3f3c40e2",
+                                "position": "3",
+                                "number": "3",
+                                "length": "334000",
+                                "recording": {
+                                    "id": "f8a8b590-3bda-4291-8bd4-ae6be7a96c3b",
+                                    "title": "Goodbye",
+                                    "length": "334000"
+                                },
+                                "track_or_recording_length": "334000"
+                            },
+                            {
+                                "id": "bf637e76-88c8-480b-8150-070b7942e737",
+                                "position": "4",
+                                "number": "4",
+                                "length": "302000",
+                                "recording": {
+                                    "id": "3dee293b-fcfc-4119-b134-f07d5a43ecfd",
+                                    "title": "Ordinary Man",
+                                    "length": "302000"
+                                },
+                                "track_or_recording_length": "302000"
+                            },
+                            {
+                                "id": "bc543228-eb8f-4c74-9b9d-9d58e98b8317",
+                                "position": "5",
+                                "number": "5",
+                                "length": "297000",
+                                "recording": {
+                                    "id": "4ee17df0-781e-4467-bf7a-5c7a004c7a7e",
+                                    "title": "Under the Graveyard",
+                                    "length": "297000"
+                                },
+                                "track_or_recording_length": "297000"
+                            },
+                            {
+                                "id": "28754615-0e45-42b4-b3c6-70f69460a8b3",
+                                "position": "6",
+                                "number": "6",
+                                "length": "259000",
+                                "recording": {
+                                    "id": "f2d860e0-0929-4397-9f32-5aef8669a627",
+                                    "title": "Eat Me",
+                                    "length": "259000"
+                                },
+                                "track_or_recording_length": "259000"
+                            },
+                            {
+                                "id": "9b496706-cf0d-4763-8246-0d8cba213ba9",
+                                "position": "7",
+                                "number": "7",
+                                "length": "246000",
+                                "recording": {
+                                    "id": "f3c48404-285e-4d3f-97b3-ef78c24a2bda",
+                                    "title": "Today Is the End",
+                                    "length": "246000"
+                                },
+                                "track_or_recording_length": "246000"
+                            },
+                            {
+                                "id": "10543e32-1e05-4314-be38-623bfdeda503",
+                                "position": "8",
+                                "number": "8",
+                                "length": "261000",
+                                "recording": {
+                                    "id": "6ba76f1f-1105-472e-b3a6-b02a427c68dd",
+                                    "title": "Scary Little Green Men",
+                                    "length": "261000"
+                                },
+                                "track_or_recording_length": "261000"
+                            },
+                            {
+                                "id": "69134a12-7714-4b49-99d2-bf1a2e1a65ff",
+                                "position": "9",
+                                "number": "9",
+                                "length": "292000",
+                                "recording": {
+                                    "id": "f6514b9b-9b1d-4d73-a8a6-4785037059de",
+                                    "title": "Holy for Tonight",
+                                    "length": "292000"
+                                },
+                                "track_or_recording_length": "292000"
+                            },
+                            {
+                                "id": "ca7ce90a-1cde-4074-8919-297cdd70f272",
+                                "position": "10",
+                                "number": "10",
+                                "length": "261000",
+                                "recording": {
+                                    "id": "665495b9-ee75-44c9-b6a4-45028ead68aa",
+                                    "title": "It's a Raid",
+                                    "length": "261000"
+                                },
+                                "track_or_recording_length": "261000"
+                            },
+                            {
+                                "id": "6117b033-0006-4f64-9bd9-22e7bbdf9531",
+                                "position": "11",
+                                "number": "11",
+                                "length": "230000",
+                                "recording": {
+                                    "id": "e24b58c1-c267-4c6e-bab4-cb1aaf3e9553",
+                                    "title": "Take What You Want",
+                                    "length": "230000"
+                                },
+                                "track_or_recording_length": "230000"
+                            }
+                        ],
+                        "track-count": 11
+                    }
+                ],
+                "medium-count": 1,
+                "artist-credit-phrase": "Ozzy Osbourne"
+            }
+        ],
+        "release-count": 1
+    }
+}
